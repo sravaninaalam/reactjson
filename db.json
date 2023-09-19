@@ -7,7 +7,21 @@
         {
             "name":"priya",
             "id":"a2"
-        }
+        },
+        {
+            "name":"sravani",
+            "id":"a3"
+              },
+            {
+                "name":"priya",
+                "id":"a4"
+            }
+    ],
+    "people":[
+        {
+        "name":"ns",
+        "id":"1"
+       }
     ]
     
 }
