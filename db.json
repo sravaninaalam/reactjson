@@ -42,12 +42,9 @@
       "amenities": "Different Cuisine Food, Swimming Pool, Self Cooking Station",
       "phoneNo": 9090909090,
       "address": "120/1C, Bangalore, Karnataka",
-      "imageUrl": "2.jpg",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/fc/0b/b2/good-hotel-antigua-patio.jpg",
       "reviews": [
-        "Good Accomodation",
-        "Best place to relax with friends and family",
-        "The best place to chill with friends. ",
-        "The best place I ever visited."
+        "nnnnnnn"
       ]
     },
     {
@@ -58,11 +55,8 @@
       "amenities": "Homely Food, Sea Food, Children's Park, Boating",
       "phoneNo": 9191919191,
       "address": "90/1A, Kochi, Kerala",
-      "imageUrl": "3.jpg",
-      "reviews": [
-        "Must visit place. The cuisine available here is so amazing.",
-        "My favorite place to relax on my vacations"
-      ]
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/5cdb058a5218470008b0b00f/Nobu-Ryokan-Malibu/0x0.jpg?format=jpg&height=1009&width=2000",
+      "reviews": "good"
     },
     {
       "id": 3,
@@ -72,8 +66,8 @@
       "amenities": "24 hr Homely Food, Security, Children's Park",
       "phoneNo": 9292929292,
       "address": "100/1A, Chennai, Tamil Nadu",
-      "imageUrl": "4.jpg",
-      "reviews": []
+      "imageUrl": "https://assets.gqindia.com/photos/5d395b0b88834900082b2de2/16:9/pass/The-St.-Regis-Mumbai.jpg",
+      "reviews": "good"
     },
     {
       "id": 4,
@@ -83,8 +77,49 @@
       "amenities": "24 hr Homely Food, Swimming Pool, Security",
       "phoneNo": 9393939393,
       "address": "190/1B, Mumbai, Maharastra",
-      "imageUrl": "5.jpg",
-      "reviews": []
+      "imageUrl": "https://www.peninsula.com/-/media/homepage---andy/the-peninsula-bangkok_the-pool-11_1920.jpg",
+      "reviews": [
+        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+      ]
+    },
+    {
+      "id": 5,
+      "hotelName": "Hill Station",
+      "city": "tirupati",
+      "description": "An affordable family stay spot at the 'City' heart",
+      "amenities": "24 hr customer serviece,",
+      "phoneNo": 9393789393,
+      "address": "170/1B, Tirupati, chittor",
+      "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118495667.jpg?k=b80878c7228471241438b83a8dcfbd6e421ff55646b781f15b68947c91ec7980&o=&hp=1",
+      "reviews": [
+        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+      ]
+    },
+    {
+      "id": 6,
+      "hotelName": "Hotel Srinivasa",
+      "city": "tirupati",
+      "description": "An affordable family stay spot near Srinivasa temple",
+      "amenities": "24 hr customer serviece,",
+      "phoneNo": 9334222693,
+      "address": "160/1B, Tirupati, chittor",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsKQumlHw3K6uNAInjtgFWDjG5bEq5A9QagOARK37jg&usqp=CAU&ec=48665698",
+      "reviews": [
+        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+      ]
+    },
+    {
+      "id": 7,
+      "hotelName": "Mayuri Palace",
+      "city": "vijayawada",
+      "description": "An affordable family stay spot near Srinivasa temple",
+      "amenities": "24 hr customer serviece,",
+      "phoneNo": 9393789393,
+      "address": "10/4B, vijayawada",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ARhQCVbBM-764TGIlat57V4upCV6_luLa7u_dsVTgQ&usqp=CAU&ec=48665698",
+      "reviews": [
+        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+      ]
     }
   ],
   "bookings": [
@@ -146,4 +181,4 @@
       "id": 5
     }
   ]
-}
+  }
