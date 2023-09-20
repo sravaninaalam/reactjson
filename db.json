@@ -1,248 +1,149 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Maria",
-        "address": "Bangalore,Karnataka",
-        "email": "maria@gmail.com",
-        "phoneNo": 1234567890,
-        "password": "maria123456"
-      },
-      {
-        "name": "Setna",
-        "address": "Bangalore",
-        "phoneNo": "1234567890",
-        "email": "setna@gmail.com",
-        "password": "Setna@123",
-        "id": 2
-      },
-      {
-        "name": "Sera",
-        "address": "bangalore",
-        "phoneNo": "1234567890",
-        "email": "sera@gmail.com",
-        "password": "Sera@1234",
-        "id": 3
-      },
-      {
-        "name": "Daisy",
-        "address": "Bangalore",
-        "phoneNo": "1234567890",
-        "email": "daisy@gmail.com",
-        "password": "Daisy@123",
-        "id": 4
-      },
-      {
-        "name": "sophia",
-        "address": "Gujarat",
-        "phoneno": "2000180004",
-        "email": "sophi@email.com",
-        "password": "Sophi@gtl1",
-        "id": 5
-      },
-      {
-        "name": "sreeya",
-        "address": "jaipur",
-        "phoneno": "1122100200",
-        "email": "sre@mail.com",
-        "password": "V@1marvel",
-        "id": 6
-      },
-      {
-        "name": "piyu",
-        "address": "miami",
-        "phoneno": "2000100035",
-        "email": "p@gmail.com",
-        "password": "Pyu@1Aghd",
-        "id": 7
-      },
-      {
-        "name": "Sravani",
-        "address": "Vizianagaram",
-        "phoneno": "0939820376",
-        "email": "srav@gmail.com",
-        "password": "Srav@1gn",
-        "id": 8
-      },
-      {
-        "name": "ravani",
-        "address": "",
-        "phoneno": "0939823376",
-        "email": "sra000@gmail.com",
-        "password": "PizzA1@e",
-        "id": 9
-      },
-      {
-        "name": "srivanshi",
-        "address": "madhuranagar",
-        "phoneno": "2098765432",
-        "email": "sri@email.com",
-        "password": "Srivan@1",
-        "id": 10
-      },
-      {
-        "name": "sravani",
-        "address": "",
-        "phoneno": "0934749302",
-        "email": "sravs@gmail.com",
-        "password": "Piyu@1ns1",
-        "id": 11
-      },
-      {
-        "name": "priya",
-        "mail": "nalamsravani2016@gmail.com",
-        "password": "Sravani1@",
-        "id": 12
-      },
-      {
-        "name": "xyz",
-        "address": "z",
-        "phoneno": "0939852037",
-        "email": "nalamsravani2016@gmail.com",
-        "password": "Sravani1@",
-        "id": 13
-      }
-    ],
-    "hotels": [
-      {
-        "id": 1,
-        "hotelName": "Paradise Stay",
-        "city": "Bangalore",
-        "description": "A home to relax at the 'city' peek with all the facilities near you",
-        "amenities": "Different Cuisine Food, Swimming Pool, Self Cooking Station",
-        "phoneNo": 9090909090,
-        "address": "120/1C, Bangalore, Karnataka",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/fc/0b/b2/good-hotel-antigua-patio.jpg",
-        "reviews": [
-          "nnnnnnn"
-        ]
-      },
-      {
-        "id": 2,
-        "hotelName": "Hill Palace",
-        "city": "Kochi",
-        "description": "A cool place to relax at Lake side",
-        "amenities": "Homely Food, Sea Food, Children's Park, Boating",
-        "phoneNo": 9191919191,
-        "address": "90/1A, Kochi, Kerala",
-        "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/5cdb058a5218470008b0b00f/Nobu-Ryokan-Malibu/0x0.jpg?format=jpg&height=1009&width=2000",
-        "reviews": "good"
-      },
-      {
-        "id": 3,
-        "hotelName": "Monsoon Stay",
-        "city": "Chennai",
-        "description": "A luxurious but affordable stay as in your home",
-        "amenities": "24 hr Homely Food, Security, Children's Park",
-        "phoneNo": 9292929292,
-        "address": "100/1A, Chennai, Tamil Nadu",
-        "imageUrl": "https://assets.gqindia.com/photos/5d395b0b88834900082b2de2/16:9/pass/The-St.-Regis-Mumbai.jpg",
-        "reviews": "good"
-      },
-      {
-        "id": 4,
-        "hotelName": "Galaxy Paradise",
-        "city": "Mumbai",
-        "description": "An affordable family stay spot at the 'City' heart",
-        "amenities": "24 hr Homely Food, Swimming Pool, Security",
-        "phoneNo": 9393939393,
-        "address": "190/1B, Mumbai, Maharastra",
-        "imageUrl": "https://www.peninsula.com/-/media/homepage---andy/the-peninsula-bangkok_the-pool-11_1920.jpg",
-        "reviews": [
-          "You can get a lot of peace. The view is very beautiful. And the food is amazing"
-        ]
-      },
-      {
-        "id": 5,
-        "hotelName": "Hill Station",
-        "city": "tirupati",
-        "description": "An affordable family stay spot at the 'City' heart",
-        "amenities": "24 hr customer serviece,",
-        "phoneNo": 9393789393,
-        "address": "170/1B, Tirupati, chittor",
-        "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118495667.jpg?k=b80878c7228471241438b83a8dcfbd6e421ff55646b781f15b68947c91ec7980&o=&hp=1",
-        "reviews": [
-          "You can get a lot of peace. The view is very beautiful. And the food is amazing"
-        ]
-      },
-      {
-        "id": 6,
-        "hotelName": "Hotel Srinivasa",
-        "city": "tirupati",
-        "description": "An affordable family stay spot near Srinivasa temple",
-        "amenities": "24 hr customer serviece,",
-        "phoneNo": 9334222693,
-        "address": "160/1B, Tirupati, chittor",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsKQumlHw3K6uNAInjtgFWDjG5bEq5A9QagOARK37jg&usqp=CAU&ec=48665698",
-        "reviews": [
-          "You can get a lot of peace. The view is very beautiful. And the food is amazing"
-        ]
-      },
-      {
-        "id": 7,
-        "hotelName": "Mayuri Palace",
-        "city": "vijayawada",
-        "description": "An affordable family stay spot near Srinivasa temple",
-        "amenities": "24 hr customer serviece,",
-        "phoneNo": 9393789393,
-        "address": "10/4B, vijayawada",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ARhQCVbBM-764TGIlat57V4upCV6_luLa7u_dsVTgQ&usqp=CAU&ec=48665698",
-        "reviews": [
-          "You can get a lot of peace. The view is very beautiful. And the food is amazing"
-        ]
-      },
-      {
-        "id": 8,
-        "hotelName": "RoyalLake",
-        "city": "Hyderabad",
-        "description": "One of the best hotel in the city",
-        "amenities": "24 hr customer serviece,",
-        "phoneNo": 1093789393,
-        "address": "160-23/1B, Somajiguda,huderabad",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMzvq8TA2cHD0bUYDg1Qbg8pryABEePPqH4Tqg749Gg&usqp=CAU&ec=48665698",
-        "reviews": [
-          "You can get a lot of peace. The view is very beautiful. And the food is amazing"
-        ]
-      },
-      {
-        "id": 9,
-        "hotelName": "N.S.Palace",
-        "city": "Hyderabad",
-        "description": "best place to stay for any office purposes",
-        "amenities": "24 hr customer serviece,",
-        "phoneNo": 9334789393,
-        "address": "130-21/1B,manikonda,hyderabad",
-        "imageUrl": "https://static.wixstatic.com/media/d94c66_11fddc1848794e5594bff8448812f1ec~mv2.jpeg/v1/fit/w_1000%2Ch_768%2Cal_c%2Cq_80,enc_auto/file.jpg",
-        "reviews": "amazing,nice stay,nice food"
-      }
-    ],
-    "bookings": [
-      {
-        "startDate": "2023-07-01",
-        "endDate": "2023-07-02",
-        "noOfPersons": 1,
-        "noOfRooms": 1,
-        "typeOfRoom": "AC",
-        "hotelName": "Paradise Stay",
-        "id": 1
-      },
-      {
-        "startDate": "2023-08-18",
-        "endDate": "2023-08-19",
-        "noOfPersons": 1,
-        "noOfRooms": 1,
-        "typeOfRoom": "AC",
-        "hotelName": "Hill Station",
-        "id": 5
-      },
-      {
-        "startDate": "2023-08-26",
-        "endDate": "2023-08-27",
-        "noOfPersons": 2,
-        "noOfRooms": 1,
-        "typeOfRoom": "AC",
-        "hotelName": "Hill Palace",
-        "id": 6
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "address": "Bangalore,Karnataka",
+      "email": "maria@gmail.com",
+      "phoneNo": 1234567890,
+      "password": "maria123456"
+    },
+    {
+      "name": "Setna",
+      "address": "Bangalore",
+      "phoneNo": "1234567890",
+      "email": "setna@gmail.com",
+      "password": "Setna@123",
+      "id": 2
+    },
+    {
+      "name": "Sera",
+      "address": "bangalore",
+      "phoneNo": "1234567890",
+      "email": "sera@gmail.com",
+      "password": "Sera@1234",
+      "id": 3
+    },
+    {
+      "name": "Daisy",
+      "address": "Bangalore",
+      "phoneNo": "1234567890",
+      "email": "daisy@gmail.com",
+      "password": "Daisy@123",
+      "id": 4
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "hotelName": "Paradise Stay",
+      "city": "Bangalore",
+      "description": "A home to relax at the 'city' peek with all the facilities near you",
+      "amenities": "Different Cuisine Food, Swimming Pool, Self Cooking Station",
+      "phoneNo": 9090909090,
+      "address": "120/1C, Bangalore, Karnataka",
+      "imageUrl": "2.jpg",
+      "reviews": [
+        "Good Accomodation",
+        "Best place to relax with friends and family",
+        "The best place to chill with friends. ",
+        "The best place I ever visited."
+      ]
+    },
+    {
+      "id": 2,
+      "hotelName": "Hill Palace",
+      "city": "Kochi",
+      "description": "A cool place to relax at Lake side",
+      "amenities": "Homely Food, Sea Food, Children's Park, Boating",
+      "phoneNo": 9191919191,
+      "address": "90/1A, Kochi, Kerala",
+      "imageUrl": "3.jpg",
+      "reviews": [
+        "Must visit place. The cuisine available here is so amazing.",
+        "My favorite place to relax on my vacations"
+      ]
+    },
+    {
+      "id": 3,
+      "hotelName": "Monsoon Stay",
+      "city": "Chennai",
+      "description": "A luxurious but affordable stay as in your home",
+      "amenities": "24 hr Homely Food, Security, Children's Park",
+      "phoneNo": 9292929292,
+      "address": "100/1A, Chennai, Tamil Nadu",
+      "imageUrl": "4.jpg",
+      "reviews": []
+    },
+    {
+      "id": 4,
+      "hotelName": "Galaxy Paradise",
+      "city": "Mumbai",
+      "description": "An affordable family stay spot at the 'City' heart",
+      "amenities": "24 hr Homely Food, Swimming Pool, Security",
+      "phoneNo": 9393939393,
+      "address": "190/1B, Mumbai, Maharastra",
+      "imageUrl": "5.jpg",
+      "reviews": []
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "startDate": "2020-09-22",
+      "endDate": "2020-09-27",
+      "noOfPersons": 1,
+      "noOfRooms": 1,
+      "typeOfRoom": "AC",
+      "hotelName": "Paradise Stay",
+      "hotelId": 1,
+      "userId": 1
+    },
+    {
+      "startDate": "2020-09-23",
+      "endDate": "2020-09-24",
+      "noOfPersons": 1,
+      "noOfRooms": 1,
+      "typeOfRoom": "AC",
+      "hotelId": 1,
+      "hotelName": "Paradise Stay",
+      "userId": 1,
+      "id": 2,
+      "bookingId": "2"
+    },
+    {
+      "startDate": "2020-09-30",
+      "endDate": "2020-10-01",
+      "noOfPersons": 1,
+      "noOfRooms": 1,
+      "typeOfRoom": "AC",
+      "hotelId": 1,
+      "hotelName": "Paradise Stay",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "startDate": "2020-10-01",
+      "endDate": "2020-10-02",
+      "noOfPersons": 1,
+      "noOfRooms": 1,
+      "typeOfRoom": "AC",
+      "hotelId": 1,
+      "hotelName": "Paradise Stay",
+      "userId": 2,
+      "id": 4,
+      "bookingId": "4"
+    },
+    {
+      "startDate": "2020-09-25",
+      "endDate": "2020-09-26",
+      "noOfPersons": 1,
+      "noOfRooms": 1,
+      "typeOfRoom": "AC",
+      "hotelId": 2,
+      "hotelName": "Hill Palace",
+      "userId": 2,
+      "id": 5
+    }
+  ]
+}
