@@ -151,7 +151,7 @@
       "noOfRooms": 1,
       "typeOfRoom": "AC",
       "hotelId": 1,
-      "hotelName": "Paradise Stay",
+      "hotelName": "Mayuri Palace",
       "userId": 1,
       "id": 2,
       "bookingId": "2"
@@ -163,7 +163,7 @@
       "noOfRooms": 1,
       "typeOfRoom": "AC",
       "hotelId": 1,
-      "hotelName": "Paradise Stay",
+      "hotelName": "Hill Station",
       "userId": 2,
       "id": 3
     },
