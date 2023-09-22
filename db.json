@@ -44,7 +44,8 @@
       "address": "120/1C, Bangalore, Karnataka",
       "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/fc/0b/b2/good-hotel-antigua-patio.jpg",
       "reviews": [
-        "nnnnnnn"
+        "Good Accomodation",
+        "Best place to relax with friends and family"
       ]
     },
     {
@@ -56,7 +57,12 @@
       "phoneNo": 9191919191,
       "address": "90/1A, Kochi, Kerala",
       "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/5cdb058a5218470008b0b00f/Nobu-Ryokan-Malibu/0x0.jpg?format=jpg&height=1009&width=2000",
-      "reviews": "good"
+      "reviews": [
+        "Good Accomodation",
+        "Best place to relax with friends and family",
+        "The best place to chill with friends. ",
+        "The best place I ever visited."
+      ]
     },
     {
       "id": 3,
@@ -67,7 +73,10 @@
       "phoneNo": 9292929292,
       "address": "100/1A, Chennai, Tamil Nadu",
       "imageUrl": "https://assets.gqindia.com/photos/5d395b0b88834900082b2de2/16:9/pass/The-St.-Regis-Mumbai.jpg",
-      "reviews": "good"
+      "reviews": [
+        "Must visit place. The cuisine available here is so amazing.",
+        "My favorite place to relax on my vacations"
+      ]
     },
     {
       "id": 4,
@@ -118,7 +127,8 @@
       "address": "10/4B, vijayawada",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ARhQCVbBM-764TGIlat57V4upCV6_luLa7u_dsVTgQ&usqp=CAU&ec=48665698",
       "reviews": [
-        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+        "You can get a lot of peace. The view is very beautiful. And the food is amazing",
+        "The best place I ever visited."
       ]
     }
   ],
