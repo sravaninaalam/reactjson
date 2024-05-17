@@ -192,7 +192,31 @@
         "Staff was cooperative and friendly would like to stay again"
       ]
     },
-    
+       {
+      "id": 12,
+      "hotelName": "RoyalLake",
+      "city": "Hyderabad",
+      "description": "One of the best hotels in the city",
+      "amenities": "24 hr customer service,",
+      "phoneNo": 1093789393,
+      "address": "160-23/1B, Somajiguda,huderabad",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMzvq8TA2cHD0bUYDg1Qbg8pryABEePPqH4Tqg749Gg&usqp=CAU&ec=48665698",
+      "reviews": [
+        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+      ]
+    },
+    {
+      "id": 13,
+      "hotelName": "N.S.Palace",
+      "city": "Hyderabad",
+      "description": "best place to stay for any office purposes",
+      "amenities": "24 hr customer service,",
+      "phoneNo": 9334789393,
+      "address": "130-21/1B, manikonda, Hyderabad",
+      "imageUrl": "https://static.wixstatic.com/media/d94c66_11fddc1848794e5594bff8448812f1ec~mv2.jpeg/v1/fit/w_1000%2Ch_768%2Cal_c%2Cq_80,enc_auto/file.jpg",
+      "reviews": ["Nonveg food is simply super",
+        "24/7 customer service and friendly staff"]
+    }
   ],
   "bookings": [
     {
