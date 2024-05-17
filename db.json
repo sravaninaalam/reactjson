@@ -130,7 +130,38 @@
         "You can get a lot of peace. The view is very beautiful. And the food is amazing",
         "The best place I ever visited."
       ]
-    }
+    },
+     {
+      "id": 8,
+      "hotelName": "Neelam's The Grand",
+      "city": "Goa",
+      "description": "Affordable luxury with pool and great dining",
+      "amenities": "Swimming Pool, Spa, Restaurant,24-hour Room Service, Bar",
+      "phoneNo":200193850 ,
+      "address": "1.2 km from Calangute Beach",
+      "imageUrl": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20070110213136251-82d4e3cc45e211eca3370a58a9feac02.jpg?&output-quality=75&downsize=520:350&crop=520:350;51,0&output-format=jpg",
+      "reviews": [
+        "very awesome neat and clean room nice service, good for family stay and the couple also, good food dining area and pool",
+        "Only the location is good but the staff's support and behavior is zero. They don't even bother to clear the room guests have to remind them",
+        "Good place to stay. Around 2 km from Calangute beach. Excellent food. Staff co-operative. Taxi stand in front of hotel."
+      ]
+    },
+     {
+      "id": 9,
+      "hotelName": "Radisson Blu Resort Goa"
+      "city": "Goa",
+      "description": "This 5 Star Resort in Goa is located in Cavelossim",
+      "amenities": "Swimming Pool, Private beach, Spa, Jacuzzi,Kids play area",
+      "phoneNo":201193850 ,
+      "address": "1.2 km from Calangute Beach",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-e4Ucjq2J3g5Fmj1oCi-AHbRN21qnGyRQhagV_GBlA&s",
+      "reviews": [
+       "radisson hotels are simply best",
+        "There is no proper designated smoking area for guests"
+        "Just wow food was good little far from Central Goa Pool "
+      ]
+    },
+    
   ],
   "bookings": [
     {
