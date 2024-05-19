@@ -148,7 +148,7 @@
     },
      {
       "id": 9,
-      "hotelName": "Radisson Blu Resort Goa"
+      "hotelName": "Radisson Blu Resort Goa",
       "city": "Goa",
       "description": "This 5 Star Resort in Goa is located in Cavelossim",
       "amenities": "Swimming Pool, Private beach, Spa, Jacuzzi,Kids play area",
@@ -157,38 +157,38 @@
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-e4Ucjq2J3g5Fmj1oCi-AHbRN21qnGyRQhagV_GBlA&s",
       "reviews": [
        "radisson hotels are simply best",
-        "There is no proper designated smoking area for guests"
+        "There is no proper designated smoking area for guests",
         "Just wow food was good little far from Central Goa Pool "
       ]
     },
 
     {
       "id": 10,
-      "hotelName": "Royal Orchid Beach Resort & Spa"
+      "hotelName": "Royal Orchid Beach Resort & Spa",
       "city": "Goa",
       "description": "This 5 Star Resort in Goa is located in Utodra beach",
-      "amenities": "Swimming Pool, Private beach, Spa, Restaurant, Kids play area, Indoor games"
+      "amenities": "Swimming Pool, Private beach, Spa, Restaurant, Kids play area, Indoor games",
       "phoneNo":201193850 ,
       "address": "1.2 km from Calangute Beach",
       "imageUrl": "https://q-xx.bstatic.com/xdata/images/hotel/max500/411170858.jpg?k=f3f19066c1b3d0c324c354fe20ebbf0c8f6a5f82c0a76626eeb258eb8f845c69&o=",
       "reviews": [
       "Neat and clean rooms",
-        "swimming pool maintenance was good"
+        "swimming pool maintenance was good",
         "Room were very small for the family of 3 "
       ]
     },
      {
       "id": 11,
-      "hotelName": "Hotel Royal Orchid Bangalore"
+      "hotelName": "Hotel Royal Orchid Bangalore",
       "city": "Bangalore",
       "description": "This 5 Star hotel in Bangalore is located in Domlur Layout.",
-      "amenities": "Free parking, conference room, Spa, Restaurant, Kids play area, 24 hrs room service"
-      "phoneNo":201193850 ,
+      "amenities": "Free parking, conference room, Spa, Restaurant, Kids play area, 24 hrs room service",
+      "phoneNo":2011938505,
       "address": "1.2 km from Calangute Beach", 
        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d2/2f/7a/palace-from-the-outside.jpg?w=1200&h=-1&s=1",
        "reviews": [
          "Amazing, place with lush green forest style outlook",
-        "My stay was nice, hotel room was as per my expectation"
+        "My stay was nice, hotel room was as per my expectation",
         "Staff was cooperative and friendly would like to stay again"
       ]
     },
@@ -202,7 +202,7 @@
       "address": "160-23/1B, Somajiguda,huderabad",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMzvq8TA2cHD0bUYDg1Qbg8pryABEePPqH4Tqg749Gg&usqp=CAU&ec=48665698",
       "reviews": [
-        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+        "You can get a lot of peace","The view is very beautiful. And the food is amazing"
       ]
     },
     {
