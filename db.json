@@ -245,17 +245,6 @@
     }
   ],
   "bookings": [
-    {
-      "id": 1,
-      "startDate": "2020-09-22",
-      "endDate": "2020-09-27",
-      "noOfPersons": 1,
-      "noOfRooms": 1,
-      "typeOfRoom": "AC",
-      "hotelName": "Paradise Stay",
-      "hotelId": 1,
-      "userId": 1
-    }
-    
+   
   ]
   }
