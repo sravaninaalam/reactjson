@@ -217,6 +217,32 @@
       "reviews": ["Nonveg food is simply super",
         "24/7 customer service and friendly staff"]
     }
+    ,
+    {
+      "id": 14,
+      "hotelName": "Taj Krishna, Hyderabad",
+      "city": "Hyderabad",
+      "description": "Free Cancellation till 24 hrs before check in",
+      "amenities": "Round-the-clock fitness center,Private dinners",
+      "phoneNo": 9354789393,
+      "address": "Banjarahills",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/31/4e/caption.jpg?w=700&h=-1&s=1",
+      "reviews": ["Taj krishna is well maintained. Kids friendly. Staff were very helpful. We used swimming pool with the kids. Kids enjoyed the stay. Food was excellent.",
+      " I have not received the discount coupon as mm t promised while booking. But i did not receive the coupon."]
+    }
+,
+    {
+      "id": 15,
+      "hotelName": "The Park,Hyderabad",
+      "city": "Hyderabad",
+      "description": "Lake view, luxury rooms, 5-star service",
+      "amenities": "Swimming Pool, Jacuzzi,Spa,Restaurant,Butler Services",
+      "phoneNo": 9350889393,
+      "address": "Somajiguda",
+      "imageUrl": "https://www.oyster.com/wp-content/uploads/sites/35/2019/05/pool-v17450503-1440-1024x683.jpg",
+      "reviews": ["The ambience was good and the room was very neat, the breakfast spread was huge and the quality of stay and food is excellent overall, the staff are very courteous, overall a great stay",
+     "Stayed in 8th floor. The room lighting is poor and must be improved. Some are not functioning and some are flickering. The tv channels are distorted. Food is ok but staff seems to be lacking passion."]
+    }
   ],
   "bookings": [
     {
