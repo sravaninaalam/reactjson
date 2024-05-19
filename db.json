@@ -255,52 +255,7 @@
       "hotelName": "Paradise Stay",
       "hotelId": 1,
       "userId": 1
-    },
-    {
-      "startDate": "2020-09-23",
-      "endDate": "2020-09-24",
-      "noOfPersons": 1,
-      "noOfRooms": 1,
-      "typeOfRoom": "AC",
-      "hotelId": 1,
-      "hotelName": "Mayuri Palace",
-      "userId": 1,
-      "id": 2,
-      "bookingId": "2"
-    },
-    {
-      "startDate": "2020-09-30",
-      "endDate": "2020-10-01",
-      "noOfPersons": 1,
-      "noOfRooms": 1,
-      "typeOfRoom": "AC",
-      "hotelId": 1,
-      "hotelName": "Hill Station",
-      "userId": 2,
-      "id": 3
-    },
-    {
-      "startDate": "2020-10-01",
-      "endDate": "2020-10-02",
-      "noOfPersons": 1,
-      "noOfRooms": 1,
-      "typeOfRoom": "AC",
-      "hotelId": 1,
-      "hotelName": "Paradise Stay",
-      "userId": 2,
-      "id": 4,
-      "bookingId": "4"
-    },
-    {
-      "startDate": "2020-09-25",
-      "endDate": "2020-09-26",
-      "noOfPersons": 1,
-      "noOfRooms": 1,
-      "typeOfRoom": "AC",
-      "hotelId": 2,
-      "hotelName": "Hill Palace",
-      "userId": 2,
-      "id": 5
     }
+    
   ]
   }
