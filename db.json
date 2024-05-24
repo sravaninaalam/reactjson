@@ -39,7 +39,7 @@
       "hotelName": "Paradise Stay",
       "city": "Bangalore",
       "description": "A home to relax at the 'city' peek with all the facilities near you",
-      "amenities": "Different Cuisine Food, Swimming Pool, Self Cooking Station",
+  "amenities": "Different Cuisine Food, Swimming Pool, Self Cooking Station",
       "phoneNo": 9090909090,
       "address": "120/1C, Bangalore, Karnataka",
       "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/fc/0b/b2/good-hotel-antigua-patio.jpg",
@@ -246,5 +246,44 @@
   ],
   "bookings": [
    
+  ],
+  "Details":[
+    {
+      "id":1,
+      "facilities":[
+        {"launguages spoken":["English","Dutch","Hindi"] },
+        {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
+        {"Services and conveniences":[" Air conditioning in public area","Daily housekeeping"," Elevator"," Invoice provided"," Laundry service"," Luggage storage"," Smoke-free property"]},
+        {"Internet access":["Free Wi-Fi in all rooms!","Internet","Internet services","Wi-Fi in public areas"]}
+      ],
+      "rooms":[
+        {"Type":" Deluxe Twin Non Smoking Room",
+         "options":["300 sq.ft","City View","Twin Bed"],
+          "prices":[
+            {"option":"Room With Free Cancellation","cost":"₹ 6,524 per night"},
+            {"option":"RRoom With Free Cancellation | Breakfast only","cost":"₹ 7,064 per night"}, 
+            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹10,849 per night"}
+          ]
+
+         },
+         {
+          "Type":" Deluxe  Non Smoking Room",
+         "options":["300 sq.ft","GolfCourse View","1 King bed or 2 Twin Bed(s)"],
+         "prices":[
+          {"option":"Room With Free Cancellation","cost":"₹ 6,794 per night"},
+          {"option":"RRoom With Free Cancellation | Breakfast only","cost":"₹ 7,334 per night"}, 
+          {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹10,034 per night"}
+        ]
+         },
+         {
+          "Type":" One Bed Room Suite - Non Smoking",
+          "options":["630 sq.ft","city View","King bed)"],
+          "prices":[
+           {"option":"Room With Free Cancellation","cost":"₹ 9,249 per night"},
+           {"option":"RRoom With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
+           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹13,349 per night"}]
+         }
+      ]
+    }
   ]
-  }
+}
