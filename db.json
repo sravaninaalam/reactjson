@@ -250,7 +250,7 @@
   "Details":[
     {
       "id":1,
-      "img":https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg",
+      "img":"https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg",
       "facilities":[
         {"launguages spoken":["English","Dutch","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
