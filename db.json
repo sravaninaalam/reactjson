@@ -250,9 +250,7 @@
   "Details":[
     {
       "id":1,
-      "imgUrls":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehqWOnexfIi_yacHIP5fGfU7O2qju-_0EEI6s7_-Odg&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUWxaAOOcKKtY8bS_b5f_wLgkULqdVvDfD_nQ872vEA&s",
-  "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/c2/b8/f0/lazdana-hotel-bangalore.jpg?w=700&h=-1&s=1"],
+      "img":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUWxaAOOcKKtY8bS_b5f_wLgkULqdVvDfD_nQ872vEA&s"],
       "facilities":[
         {"launguages spoken":["English","Dutch","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
