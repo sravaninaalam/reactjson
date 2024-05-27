@@ -259,6 +259,7 @@
       ],
       "rooms":[
         {"Type":" Deluxe Twin Non Smoking Room",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBGiGsE12VJbdKdUoYp-Q-h8jdZ_JFiOiMhHk1fxq8w&s",
          "options":["300 sq.ft","City View","Twin Bed"],
           "prices":[
             {"option":"Room With Free Cancellation","cost":"₹ 6,524 per night"},
@@ -269,6 +270,7 @@
          },
          {
           "Type":" Deluxe  Non Smoking Room",
+          "img":"https://www.cvent.com/sites/default/files/image/2021-10/hotel%20room%20with%20beachfront%20view.jpg",
          "options":["300 sq.ft","GolfCourse View","1 King bed or 2 Twin Bed(s)"],
          "prices":[
           {"option":"Room With Free Cancellation","cost":"₹ 6,794 per night"},
@@ -278,6 +280,7 @@
          },
          {
           "Type":" One Bed Room Suite - Non Smoking",
+          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjk3He8ZTePdPfgHgEwq5mqvGmZDPTK1iEqGYlK9NuA&s",
           "options":["630 sq.ft","city View","King bed)"],
           "prices":[
            {"option":"Room With Free Cancellation","cost":"₹ 9,249 per night"},
