@@ -106,25 +106,25 @@
     },
     {
       "id": 6,
-      "hotelName": "Hotel Srinivasa",
+      "hotelName": "Fortune Select Grand Ridge",
       "city": "tirupati",
       "description": "An affordable family stay spot near Srinivasa temple",
       "amenities": "24 hr customer serviece,",
       "phoneNo": 9334222693,
       "address": "160/1B, Tirupati, chittor",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsKQumlHw3K6uNAInjtgFWDjG5bEq5A9QagOARK37jg&usqp=CAU&ec=48665698",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGPae6JfqW-OYbFr4klzZt_h94KaPEqwTFg&s",
       "reviews": [
         "You can get a lot of peace. The view is very beautiful. And the food is amazing"
       ]
     },
     {
       "id": 7,
-      "hotelName": "Mayuri Palace",
-      "city": "vijayawada",
+      "hotelName": "The Taj Mahal Tower, Mumbaii",
+      "city": "Tirupati",
       "description": "An affordable family stay spot near Srinivasa temple",
-      "amenities": "24 hr customer serviece,",
+      "amenities": "24 hr customer serviece",
       "phoneNo": 9393789393,
-      "address": "10/4B, vijayawada",
+      "address": " Apollo Bunder, Colaba, 400001 Mumbai, India",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ARhQCVbBM-764TGIlat57V4upCV6_luLa7u_dsVTgQ&usqp=CAU&ec=48665698",
       "reviews": [
         "You can get a lot of peace. The view is very beautiful. And the food is amazing",
@@ -250,7 +250,7 @@
   "Details":[
     {
       "id":1,
-      "img":"https://media-cdn.tripadvisor.com/media/photo-s/0c/fc/0b/b2/good-hotel-antigua-patio.jpg",
+      "img":"https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg",
       "facilities":[
         {"launguages spoken":["English","Dutch","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -495,7 +495,7 @@
       ]
     }, {
       "id":6,
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsKQumlHw3K6uNAInjtgFWDjG5bEq5A9QagOARK37jg&usqp=CAU&ec=48665698",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGPae6JfqW-OYbFr4klzZt_h94KaPEqwTFg&s",
       "facilities":[
         {"launguages spoken":["English","Telugu","Tamil","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -536,7 +536,7 @@
     },
     {
       "id":7,
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ARhQCVbBM-764TGIlat57V4upCV6_luLa7u_dsVTgQ&usqp=CAU&ec=48665698",
+      "img":"https://images.trvl-media.com/lodging/20000000/19460000/19458500/19458493/8cf0d468_y.jpg",
       "facilities":[
         {"launguages spoken":["English","Telugu","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -618,7 +618,7 @@
     },
     {
       "id":9,
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-e4Ucjq2J3g5Fmj1oCi-AHbRN21qnGyRQhagV_GBlA&s",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6CgQ0m1qmYWNWfdOWe1b5sHFx0fD4qlWug&s",
       "facilities":[
         {"launguages spoken":["English","Kokan","Malayalam","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -658,7 +658,7 @@
       ]
     }, {
       "id":10,
-      "img":"https://q-xx.bstatic.com/xdata/images/hotel/max500/411170858.jpg?k=f3f19066c1b3d0c324c354fe20ebbf0c8f6a5f82c0a76626eeb258eb8f845c69&o=",
+      "img":"https://images.moneycontrol.com/static-mcnews/2021/04/Roof-top-pool-2-taj-goa-770x433.jpg?impolicy=website&width=770&height=431",
       "facilities":[
         {"launguages spoken":["English","Malayalam","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
