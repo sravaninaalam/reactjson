@@ -94,15 +94,17 @@
     },
     {
       "id": 5,
-      "hotelName": "Hill Station",
-      "city": "tirupati",
+      "hotelName": "HOTEL DKR GRAND",
+      "city": "Tirupati",
       "description": "An affordable family stay spot at the 'City' heart",
       "amenities": "24 hr customer serviece,",
       "phoneNo": 9393789393,
-      "address": "170/1B, Tirupati, chittor",
+      "address": "19-3-12/B,Old Renigunta Road, 517501 Tirupati, India ",
       "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118495667.jpg?k=b80878c7228471241438b83a8dcfbd6e421ff55646b781f15b68947c91ec7980&o=&hp=1",
       "reviews": [
-        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+        "Excellent rooms and this property is newly build property and we can view the mountain view from the room it self and staff is very cooperative and they helped me in getting Balaji Darshan recommend for the families",
+        "The Staff is very Polite and Nice, Clean and spacious rooms with luxury beds. Location is Peaceful and view of mountains is good. Nice place to stay.. Recommended 👍",
+        "Its a very good place to stay. Rooms are very spacious and maintanence also superb.Its located very near to busstand railway station and few temples are near by it will not take more than 10 to 15 min."
       ]
     },
     {
@@ -376,51 +378,12 @@
       "id":4,
       "img":"https://www.peninsula.com/-/media/homepage---andy/the-peninsula-bangkok_the-pool-11_1920.jpg",
       "facilities":[
-        {"launguages spoken":["English","Dutch","Hindi"] },
-        {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
+        {"launguages spoken":["English","Telugu","Tamil","Hindi"] },
+        {"General":["Air conditioning","Family rooms","Non-smoking rooms","CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
         {"Services and conveniences":[" Air conditioning in public area","Daily housekeeping"," Elevator"," Invoice provided"," Laundry service"," Luggage storage"," Smoke-free property"]},
-        {"Internet access":["Free Wi-Fi in all rooms!","Internet","Internet services","Wi-Fi in public areas"]}
-      ],
-      "rooms":[
-        {"Type":" Deluxe Twin Non Smoking Room",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBGiGsE12VJbdKdUoYp-Q-h8jdZ_JFiOiMhHk1fxq8w&s",
-         "options":["300 sq.ft","City View","Twin Bed"],
-          "prices":[
-            {"option":"Room With Free Cancellation","cost":"₹ 6,524 per night"},
-            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 7,064 per night"}, 
-            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹10,849 per night"}
-          ]
-
-         },
-         {
-          "Type":" Deluxe  Non Smoking Room",
-          "img":"https://www.cvent.com/sites/default/files/image/2021-10/hotel%20room%20with%20beachfront%20view.jpg",
-         "options":["300 sq.ft","GolfCourse View","1 King bed or 2 Twin Bed(s)"],
-         "prices":[
-          {"option":"Room With Free Cancellation","cost":"₹ 6,794 per night"},
-          {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 7,334 per night"}, 
-          {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹10,034 per night"}
-        ]
-         },
-         {
-          "Type":" One Bed Room Suite - Non Smoking",
-          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjk3He8ZTePdPfgHgEwq5mqvGmZDPTK1iEqGYlK9NuA&s",
-          "options":["30 sq.ft","city View","King bed)"],
-          "prices":[
-           {"option":"Room With Free Cancellation","cost":"₹ 9,249 per night"},
-           {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
-           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
-         }
-      ]
-    },
-    {
-      "id":4,
-      "img":"https://www.peninsula.com/-/media/homepage---andy/the-peninsula-bangkok_the-pool-11_1920.jpg",
-      "facilities":[
-        {"launguages spoken":["English","Dutch","Hindi"] },
-        {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
-        {"Services and conveniences":[" Air conditioning in public area","Daily housekeeping"," Elevator"," Invoice provided"," Laundry service"," Luggage storage"," Smoke-free property"]},
-        {"Internet access":["Free Wi-Fi in all rooms!","Internet","Internet services","Wi-Fi in public areas"]}
+        {"Internet access":["Free Wi-Fi in all rooms!","Internet","Internet services","Wi-Fi in public areas"]},
+        {"Bedroom":["Linen","Wardrobe/closet"]},  
+        {"View":["City view","Landmark view","Mountain view"]}
       ],
       "rooms":[
         {"Type":" Deluxe Twin Non Smoking Room",
@@ -900,4 +863,5 @@
       ]
     }
   ]
+
 }
