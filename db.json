@@ -114,24 +114,26 @@
       "description": "An affordable family stay spot near Srinivasa temple",
       "amenities": "24 hr customer serviece,",
       "phoneNo": 9334222693,
-      "address": "160/1B, Tirupati, chittor",
+      "address": " Shilparamam,Tiruchanoor Road, 517501 Tirupati, India",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGPae6JfqW-OYbFr4klzZt_h94KaPEqwTFg&s",
       "reviews": [
-        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+        "We had a very tasty and delicious breakfast stay was awesome staff very helping thanks",
+        "Cordial staff, Restaurant is very good and staff are very courteous and excellent hospitality",
+        "BREAKFAST IS AMAING AND STAY WAS VERY GOOD STAFF ALSO VERY HELPFUL I WOULD LIKE TO REALLY APPRECIATE GAYATHRI, BHASKAR AND MS SINGH"
       ]
     },
     {
       "id": 7,
-      "hotelName": "The Taj Mahal Tower, Mumbaii",
-      "city": "Tirupati",
+      "hotelName": "Vivanta Hyderabad, Begumpet",
+      "city": "Hyderabad",
       "description": "An affordable family stay spot near Srinivasa temple",
-      "amenities": "24 hr customer serviece",
+      "amenities": "Outdoor Swimming Pool, Bar,spa , Restaurant",
       "phoneNo": 9393789393,
-      "address": " Apollo Bunder, Colaba, 400001 Mumbai, India",
+      "address": "1-10-147&148, Mayuri Marg Begumpet, Begumpet, 500016 Hyderabad, India ",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ARhQCVbBM-764TGIlat57V4upCV6_luLa7u_dsVTgQ&usqp=CAU&ec=48665698",
       "reviews": [
-        "You can get a lot of peace. The view is very beautiful. And the food is amazing",
-        "The best place I ever visited."
+       "Buffet breakfast was very good, as was the service from the front desk and housekeeping staff. special mention to mr.siddarth for his patient help",
+      "Great staff, great breakfast, clean and comfortable room"
       ]
     },
      {
@@ -445,7 +447,11 @@
           {"option":"Room With Free Cancellation","cost":"₹ 4,794 per night"},
           {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 6,334 per night"}, 
           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹7,034 per night"}
-        ]
+        ],
+        "Nearby":[{"Public Transport":{"APSRTC Central Bus Station":"600 m","Tirupati East Railway Station":"1.8km"}},
+               {"Airport":{"Tirupati Airport":"9km"}},
+              {"Restaurants & cafes":{"Manasa Veg & Non Veg Restaurant":"50M","Navarattan Veg Restaurant":"100m"}}
+              ,{"Natural beauty":{"Papavinasam Theertham":"5 km"}}]
          },
          {
           "Type":" One Bed Room Suite - Non Smoking",
@@ -485,7 +491,11 @@
           {"option":"Room With Free Cancellation","cost":"₹ 3,794 per night"},
           {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 5,334 per night"}, 
           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹6,034 per night"}
-        ]
+        ],
+        "Nearby":[{"Public Transport":{"APSRTC Central Bus Station":"2.3 km","Tirupati train":"2.8km"}},
+        {"Airport":{"Tirupati Airport":"9km"}},
+       {"Restaurants & cafes":{"Zodiac Multicuisine Restaurant":"30M","Tea shopt":"2.8m","Lories Tea shop":"8km"}},
+       {"Natural beauty":{"Papavinasam Theertham":"5 km"}}]
          },
          {
           "Type":" One Bed Room Suite - Non Smoking",
@@ -526,7 +536,11 @@
           {"option":"Room With Free Cancellation","cost":"₹ 4,794 per night"},
           {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 5,334 per night"}, 
           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹6,034 per night"}
-        ]
+        ],
+        "Nearby":[{"Public Transport":{"(Metro)Prakash Nagar":"500 m","(Train)Begumpet":"550 m","(Metro)Begumpet":"650m"}},
+        {"Airport":{"Rajiv Gandhi International Airport":"22km"}},
+       {"Restaurants & cafes":{"Restaurant Viva":"30M","(Cafe/bar)Club 8":"850m","(Cafe/bar)10 Downing Street":"850m"}},
+       {"Top attractions":{"Lumbini Park":"3.9 km","Birla Science Museum":"4.5 km","AP State Archaeology Museum":"5 km"}}]
          },
          {
           "Type":" One Bed Room Suite - Non Smoking",
