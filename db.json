@@ -255,7 +255,10 @@
   "Details":[
     {
       "id":1,
-      "img":"https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+"https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1"],
       "facilities":[
         {"launguages spoken":["English","Dutch","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
