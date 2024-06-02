@@ -299,7 +299,10 @@
     },
     {
       "id":2,
-      "img":"https://imageio.forbes.com/specials-images/imageserve/5cdb058a5218470008b0b00f/Nobu-Ryokan-Malibu/0x0.jpg?format=jpg&height=1009&width=2000",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1"],
       "facilities":[
         {"launguages spoken":["English","Malayalam","Kannada","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -340,7 +343,11 @@
     },
     {
       "id":3,
-      "img":"https://assets.gqindia.com/photos/5d395b0b88834900082b2de2/16:9/pass/The-St.-Regis-Mumbai.jpg",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+     "https://assets.gqindia.com/photos/5d395b0b88834900082b2de2/16:9/pass/The-St.-Regis-Mumbai.jpg"],
       "facilities":[
         {"launguages spoken":["English","Tamil","Telugu","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -381,7 +388,11 @@
     },
     {
       "id":4,
-      "img":"https://www.peninsula.com/-/media/homepage---andy/the-peninsula-bangkok_the-pool-11_1920.jpg",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+      "https://www.peninsula.com/-/media/homepage---andy/the-peninsula-bangkok_the-pool-11_1920.jpg"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Tamil","Hindi"] },
         {"General":["Air conditioning","Family rooms","Non-smoking rooms","CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -424,7 +435,11 @@
     },
     {
       "id":5,
-      "img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/118495667.jpg?k=b80878c7228471241438b83a8dcfbd6e421ff55646b781f15b68947c91ec7980&o=&hp=1",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118495667.jpg?k=b80878c7228471241438b83a8dcfbd6e421ff55646b781f15b68947c91ec7980&o=&hp=1"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Tamil","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -468,7 +483,11 @@
       ]
     }, {
       "id":6,
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGPae6JfqW-OYbFr4klzZt_h94KaPEqwTFg&s",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGPae6JfqW-OYbFr4klzZt_h94KaPEqwTFg&s"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Tamil","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -513,7 +532,11 @@
     },
     {
       "id":7,
-      "img":"https://images.trvl-media.com/lodging/20000000/19460000/19458500/19458493/8cf0d468_y.jpg",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+      "https://images.trvl-media.com/lodging/20000000/19460000/19458500/19458493/8cf0d468_y.jpg"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -558,7 +581,11 @@
     },
     {
       "id":8,
-      "img":"https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20070110213136251-82d4e3cc45e211eca3370a58a9feac02.jpg?&output-quality=75&downsize=520:350&crop=520:350;51,0&output-format=jpg",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+     "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20070110213136251-82d4e3cc45e211eca3370a58a9feac02.jpg?&output-quality=75&downsize=520:350&crop=520:350;51,0&output-format=jpg"],
       "facilities":[
         {"launguages spoken":["English","Kokan","Malayalam","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -599,7 +626,11 @@
     },
     {
       "id":9,
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6CgQ0m1qmYWNWfdOWe1b5sHFx0fD4qlWug&s",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6CgQ0m1qmYWNWfdOWe1b5sHFx0fD4qlWug&s"],
       "facilities":[
         {"launguages spoken":["English","Kokan","Malayalam","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -639,7 +670,11 @@
       ]
     }, {
       "id":10,
-      "img":"https://images.moneycontrol.com/static-mcnews/2021/04/Roof-top-pool-2-taj-goa-770x433.jpg?impolicy=website&width=770&height=431",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+      "https://images.moneycontrol.com/static-mcnews/2021/04/Roof-top-pool-2-taj-goa-770x433.jpg?impolicy=website&width=770&height=431"],
       "facilities":[
         {"launguages spoken":["English","Malayalam","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -679,7 +714,11 @@
       ]
     }, {
       "id":11,
-      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d2/2f/7a/palace-from-the-outside.jpg?w=1200&h=-1&s=1",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d2/2f/7a/palace-from-the-outside.jpg?w=1200&h=-1&s=1"],
       "facilities":[
         {"launguages spoken":["English","Kannada","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -720,7 +759,11 @@
     },
     {
       "id":12,
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMzvq8TA2cHD0bUYDg1Qbg8pryABEePPqH4Tqg749Gg&usqp=CAU&ec=48665698",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMzvq8TA2cHD0bUYDg1Qbg8pryABEePPqH4Tqg749Gg&usqp=CAU&ec=48665698"],
       "facilities":[
         {"launguages spoken":["English","Kannada","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -760,7 +803,11 @@
       ]
     },{
       "id":13,
-      "img":"https://static.wixstatic.com/media/d94c66_11fddc1848794e5594bff8448812f1ec~mv2.jpeg/v1/fit/w_1000%2Ch_768%2Cal_c%2Cq_80,enc_auto/file.jpg",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+  "https://static.wixstatic.com/media/d94c66_11fddc1848794e5594bff8448812f1ec~mv2.jpeg/v1/fit/w_1000%2Ch_768%2Cal_c%2Cq_80,enc_auto/file.jpg"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -800,7 +847,11 @@
       ]
     },{
       "id":14,
-      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/31/4e/caption.jpg?w=700&h=-1&s=1",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/31/4e/caption.jpg?w=700&h=-1&s=1"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
@@ -840,7 +891,11 @@
       ]
     },{
       "id":15,
-      "img":"https://www.oyster.com/wp-content/uploads/sites/35/2019/05/pool-v17450503-1440-1024x683.jpg",
+      "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510224632.jpg?k=c832047c4c78e6d6a637f8d4983154fc6d06d6605e9b1758cdcd8c74a831a674&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510912230.jpg?k=25af5758436c6a3e83ef49ed25b60000d575f963e878e0ebd6487d51be9d266b&o=&hp=1",
+  "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483257331.jpg?k=8ff0ae3bd867adf9b1557c89acf62b7e84c0bc0b81073f3f29b6fb385f6df58d&o=&hp=1",
+"https://www.oyster.com/wp-content/uploads/sites/35/2019/05/pool-v17450503-1440-1024x683.jpg"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Hindi"] },
         {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
