@@ -465,11 +465,7 @@
           {"option":"Room With Free Cancellation","cost":"₹ 4,794 per night"},
           {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 6,334 per night"}, 
           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹7,034 per night"}
-        ],
-        "Nearby":[{"Public Transport":{"APSRTC Central Bus Station":"600 m","Tirupati East Railway Station":"1.8km"}},
-               {"Airport":{"Tirupati Airport":"9km"}},
-              {"Restaurants & cafes":{"Manasa Veg & Non Veg Restaurant":"50M","Navarattan Veg Restaurant":"100m"}}
-              ,{"Natural beauty":{"Papavinasam Theertham":"5 km"}}]
+          ]
          },
          {
           "Type":" One Bed Room Suite - Non Smoking",
@@ -480,7 +476,11 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 7,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹8,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"Public Transport":{"APSRTC Central Bus Station":"600 m","Tirupati East Railway Station":"1.8km"}},
+      {"Airport":{"Tirupati Airport":"9km"}},
+     {"Restaurants & cafes":{"Manasa Veg & Non Veg Restaurant":"50M","Navarattan Veg Restaurant":"100m"}}
+     ,{"Natural beauty":{"Papavinasam Theertham":"5 km"}}]
     }, {
       "id":6,
       "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
@@ -513,11 +513,7 @@
           {"option":"Room With Free Cancellation","cost":"₹ 3,794 per night"},
           {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 5,334 per night"}, 
           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹6,034 per night"}
-        ],
-        "Nearby":[{"Public Transport":{"APSRTC Central Bus Station":"2.3 km","Tirupati train":"2.8km"}},
-        {"Airport":{"Tirupati Airport":"9km"}},
-       {"Restaurants & cafes":{"Zodiac Multicuisine Restaurant":"30M","Tea shopt":"2.8m","Lories Tea shop":"8km"}},
-       {"Natural beauty":{"Papavinasam Theertham":"5 km"}}]
+        ]
          },
          {
           "Type":" One Bed Room Suite - Non Smoking",
@@ -528,7 +524,11 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 6,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹8,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"Public Transport":{"APSRTC Central Bus Station":"2.3 km","Tirupati train":"2.8km"}},
+      {"Airport":{"Tirupati Airport":"9km"}},
+     {"Restaurants & cafes":{"Zodiac Multicuisine Restaurant":"30M","Tea shopt":"2.8m","Lories Tea shop":"8km"}},
+     {"Natural beauty":{"Papavinasam Theertham":"5 km"}}]
     },
     {
       "id":7,
@@ -562,11 +562,7 @@
           {"option":"Room With Free Cancellation","cost":"₹ 4,794 per night"},
           {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 5,334 per night"}, 
           {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹6,034 per night"}
-        ],
-        "Nearby":[{"Public Transport":{"(Metro)Prakash Nagar":"500 m","(Train)Begumpet":"550 m","(Metro)Begumpet":"650m"}},
-        {"Airport":{"Rajiv Gandhi International Airport":"22km"}},
-       {"Restaurants & cafes":{"Restaurant Viva":"30M","(Cafe/bar)Club 8":"850m","(Cafe/bar)10 Downing Street":"850m"}},
-       {"Top attractions":{"Lumbini Park":"3.9 km","Birla Science Museum":"4.5 km","AP State Archaeology Museum":"5 km"}}]
+        ]
          },
          {
           "Type":" One Bed Room Suite - Non Smoking",
@@ -577,7 +573,11 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 7,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹9,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"Public Transport":{"(Metro)Prakash Nagar":"500 m","(Train)Begumpet":"550 m","(Metro)Begumpet":"650m"}},
+      {"Airport":{"Rajiv Gandhi International Airport":"22km"}},
+     {"Restaurants & cafes":{"Restaurant Viva":"30M","(Cafe/bar)Club 8":"850m","(Cafe/bar)10 Downing Street":"850m"}},
+     {"Top attractions":{"Lumbini Park":"3.9 km","Birla Science Museum":"4.5 km","AP State Archaeology Museum":"5 km"}}]
     },
     {
       "id":8,
