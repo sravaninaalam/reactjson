@@ -240,13 +240,15 @@
       "id": 15,
       "hotelName": "The Park Hyderabad",
       "city": "Hyderabad",
-      "description": "Lake view, luxury rooms, 5-star service",
-      "amenities": "Swimming Pool, Jacuzzi,Spa,Restaurant,Butler Services",
+      "description": "The Park Hotel is located in the business, and entertainment area, offering spacious accommodation with views of the Hussain Sagar Lake.",
+      "amenities": "Swimming Pool, Fitness centre,Restaurant,Bar",
       "phoneNo": 9350889393,
-      "address": "Somajiguda",
+      "address": " 22 Raj Bhavan Road,Somajiguda, 500082 Hyderabad, India",
       "imageUrl": "https://www.oyster.com/wp-content/uploads/sites/35/2019/05/pool-v17450503-1440-1024x683.jpg",
       "reviews": ["The ambience was good and the room was very neat, the breakfast spread was huge and the quality of stay and food is excellent overall, the staff are very courteous, overall a great stay",
-     "Stayed in 8th floor. The room lighting is poor and must be improved. Some are not functioning and some are flickering. The tv channels are distorted. Food is ok but staff seems to be lacking passion."]
+     "Stayed in 8th floor. The room lighting is poor and must be improved. Some are not functioning and some are flickering. The tv channels are distorted. Food is ok but staff seems to be lacking passion.",
+    "The front desk staff Pankaj and anita were very pleasent and helpful. I am sure the other staff members are equally good.",
+  "Location is beautiful with a great view of Hussain Sagar Lake and beautiful hospitality by all the staff."]
     }
   ],
   "bookings": [
@@ -932,7 +934,16 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
           }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Lumbini Park":"100 m","Lake View Park":"1.2 km","Sports Park":"1.2 km",
+      "N T R Gardens-Entrance 1":"1.2 km","NTR Gardens":"1.4 km","Jalagam Vengalrao Park":"1.5 km","Khairatabad Park":"1.5 km"}},
+        {"Public Transport":{"Necklace Road(Train)":"40m","(Metro)Kairatabad":"1.2km","(Train)Kairatabad":"1.3km"}},
+      {"Top attractions":{"AP State Archaeology Museum":"2.8 km","Salar Jung Museum":"6 km","Charminar":"7 km","Golkonda Fort":"7 km",
+      "Nehru Zoological Park":"8 km"}},
+      {"Airport":{"Rajiv Gandhi International Airport":"20km"}},
+     {"Restaurants & cafes":{"(Restaurant)Verandah":"40 m","(Cafe/bar)Red rose cafe":"750m"}},
+     {"Natural beauty":{"Hussain Sagar Lake":"1.2km","Hmda Urban Forest":"3.9km","(Waterfall)Kokapeta Lake":"14km"}}
+    ]
     }
   ]
 
