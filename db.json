@@ -174,12 +174,12 @@
       "description": "This 5 Star Resort in Goa is located in Utodra beach",
       "amenities": "Swimming Pool, Private beach, Spa, Restaurant, Kids play area, Indoor games",
       "phoneNo":201193850 ,
-      "address": "1.2 km from Calangute Beach",
+      "address": "Utorda Beach, 403713 Utorda, India ",
       "imageUrl": "https://q-xx.bstatic.com/xdata/images/hotel/max500/411170858.jpg?k=f3f19066c1b3d0c324c354fe20ebbf0c8f6a5f82c0a76626eeb258eb8f845c69&o=",
       "reviews": [
-      "Neat and clean rooms",
-        "swimming pool maintenance was good",
-        "Room were very small for the family of 3 "
+      "“The staff is friendly and helpful.The hotel is clean.Best hotel if you have children as there are lot of activities. Just few meters walk to the beach as well.”",
+        "The stay was good and comfortable .. food was good … beach was close .. overall enjoyed the stay",
+       
       ]
     },
      {
@@ -189,38 +189,41 @@
       "description": "This 5 Star hotel in Bangalore is located in Domlur Layout.",
       "amenities": "Free parking, conference room, Spa, Restaurant, Kids play area, 24 hrs room service",
       "phoneNo":2011938505,
-      "address": "1.2 km from Calangute Beach", 
+      "address": "Opp. BSNL Office, Near Durgapura Flyover, Tonk Road, 302018 Jaipur, India",
        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d2/2f/7a/palace-from-the-outside.jpg?w=1200&h=-1&s=1",
        "reviews": [
          "Amazing, place with lush green forest style outlook",
+         "“variety of breakfast in morning and you can have it with customise as per your wish. Also resturant food was too delicious and was value for money”",
         "My stay was nice, hotel room was as per my expectation",
         "Staff was cooperative and friendly would like to stay again"
       ]
     },
        {
       "id": 12,
-      "hotelName": "RoyalLake",
+      "hotelName": "Daspalla Hyderabad",
       "city": "Hyderabad",
       "description": "One of the best hotels in the city",
-      "amenities": "24 hr customer service,",
+      "amenities": "24 hr customer service,Restaurants,Bar,Free parking",
       "phoneNo": 1093789393,
-      "address": "160-23/1B, Somajiguda,huderabad",
+      "address": "1Road No 37 Jubilee Hills, 500033 Hyderabad, India ",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMzvq8TA2cHD0bUYDg1Qbg8pryABEePPqH4Tqg749Gg&usqp=CAU&ec=48665698",
       "reviews": [
-        "You can get a lot of peace","The view is very beautiful. And the food is amazing"
+          "The room was very comfortable. The bathroom was well-stocked with amazing bath and body products, which was a lovely touch. Room service was prompt and hassle-free. Their biriyani is a must-try. The rooftop bar was great with a cosy ambience. We couldn't manage to get early check-in but the hotel helped us extend our stay without any trouble. Would definitely stay there again.",
+          "“Breakfast was very good. Location is ok type not great.”","“Hospitable staffs . Room is clean and provided sufficient supplies needed.”"
       ]
     },
     {
       "id": 13,
-      "hotelName": "N.S.Palace",
+      "hotelName": "ITC Kakatiya, a Luxury Collection Hotel, Hyderabad",
       "city": "Hyderabad",
       "description": "best place to stay for any office purposes",
-      "amenities": "24 hr customer service,",
+      "amenities": "Outdoor swimming pool,Spa and wellness centre,Bar",
       "phoneNo": 9334789393,
-      "address": "130-21/1B, manikonda, Hyderabad",
+      "address": " 6 -3 -1187, Begumpet, Hyderabad, Begumpet, 500016 Hyderabad, India ",
       "imageUrl": "https://static.wixstatic.com/media/d94c66_11fddc1848794e5594bff8448812f1ec~mv2.jpeg/v1/fit/w_1000%2Ch_768%2Cal_c%2Cq_80,enc_auto/file.jpg",
-      "reviews": ["Nonveg food is simply super",
-        "24/7 customer service and friendly staff"]
+      "reviews": ["“The location, room, staff and service was exceptional.”",
+        "“The front office staffs were amazing, the warm welcome with traditional namaste just made my day.”",
+      "“Breakfast buffet spread was impressive. Staff was welcoming. Service was good and quick. Property is attractive”"]
     }
     ,
     {
@@ -228,12 +231,14 @@
       "hotelName": "Taj Krishna Hyderabad",
       "city": "Hyderabad",
       "description": "Free Cancellation till 24 hrs before check in",
-      "amenities": "Round-the-clock fitness center,Private dinners",
+      "amenities": "Spa and wellness centrer,Airport shuttle,Private dinners",
       "phoneNo": 9354789393,
-      "address": "Banjarahills",
+      "address": " Road no.1 Banjara Hills, 500034 Hyderabad, India ",
       "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/31/4e/caption.jpg?w=700&h=-1&s=1",
       "reviews": ["Taj krishna is well maintained. Kids friendly. Staff were very helpful. We used swimming pool with the kids. Kids enjoyed the stay. Food was excellent.",
-      " I have not received the discount coupon as mm t promised while booking. But i did not receive the coupon."]
+      " I have not received the discount coupon as mm t promised while booking. But i did not receive the coupon.",
+    "The welcome gifts! The staff were lovely. The food was great at breakfast and dinner Indian restaurant Our upgrade was incredible.",
+  "Staff very helpful. Hotel is plush. Great breakfast. Fabulous pool."]
     }
 ,
     {
@@ -713,7 +718,15 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Football Ground Majoda":"2.6km","Volleyball Ground":"3.1km","Football Ground":"3.7km","Bh Cheruvu Lake Front":"1.1 km"}},
+      {"Public Transport":{"(Train)Majorda Junction":"2.2km","(Train)Cansaulim":"2.8km"}},
+    {"Top attractions":{"Museum Of Indology":"6km","Birla Planetarium":"6 km","Statue Circle":"7 km","Hawa Mahal - Palace of Winds":"9 km",
+    "Nehru Zoological Park":"8 km"}},
+    {"Airport":{"Jaipur International Airport":"950m"}},
+   {"Restaurants & cafes":{"(Cafe/bar)Lourdes Bar and Restaurant":"850m","(Cafe/bar)Shack":"1000m"}},
+   {"Natural beauty":{"LakeMansagar Lake":"13 km"}}
+  ]
     }, {
       "id":11,
       "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
@@ -757,7 +770,15 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"VVG Park View":"500 m","Freedom Park":"900m","Vasanthas Emerald Gardens":"950m","Bh Cheruvu Lake Front":"1.1 km"}},
+      {"Public Transport":{"Durgapura metro (u/c)":"1km","(Metro)Durgapura":"1.3km","(Metro)New Aatish Market":"4.9km"}},
+    {"Top attractions":{"Museum Of Indology":"6km","Birla Planetarium":"6 km","Statue Circle":"7 km","Hawa Mahal - Palace of Winds":"9 km",
+    "Nehru Zoological Park":"8 km"}},
+    {"Airport":{"Jaipur International Airport":"950m"}},
+   {"Restaurants & cafes":{"(Cafe/bar)Amarnath Café":"1.7km","(Cafe/bar)Grab A Coffee":"2km"}},
+   {"Natural beauty":{"LakeMansagar Lake":"13 km"}}
+  ]
     },
     {
       "id":12,
@@ -802,7 +823,15 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"VVG Park View":"500 m","Freedom Park":"900m","Vasanthas Emerald Gardens":"950m","Bh Cheruvu Lake Front":"1.1 km"}},
+      {"Public Transport":{"Irrun Manzil Metro Station":"850m","(Metro)Kairatabad":"1.2km","(Train)Kairatabad":"1.3km"}},
+    {"Top attractions":{"AP State Archaeology Museum":"2.8 km","Salar Jung Museum":"6 km","Charminar":"7 km","Golkonda Fort":"7 km",
+    "Nehru Zoological Park":"8 km"}},
+    {"Airport":{"Rajiv Gandhi International Airport":"22km"}},
+   {"Restaurants & cafes":{"(Restaurant)Golden Dragon Chambers":"50 m","(Cafe/bar)Cafe' Coffee Day":"100m"}},
+   {"Natural beauty":{"Banjara Lake":"600m","Hmda Urban Forest":"5km","(Waterfall)Kokapeta Lake":"13km"}}
+  ]
     },{
       "id":13,
       "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
@@ -846,7 +875,15 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Jalagam Vengalrao Park":"550 m","Chacha Nehru Park":"1.5 km","M C H Park":"1.6 km","Khairatabad Park":"1.7 km","Lumbini Park":"1.7 km"}},
+      {"Public Transport":{"Irrun Manzil Metro Station":"850m","(Metro)Kairatabad":"1.2km","(Train)Kairatabad":"1.3km"}},
+    {"Top attractions":{"AP State Archaeology Museum":"2.8 km","Salar Jung Museum":"6 km","Charminar":"7 km","Golkonda Fort":"7 km",
+    "Nehru Zoological Park":"8 km"}},
+    {"Airport":{"Rajiv Gandhi International Airport":"19km"}},
+   {"Restaurants & cafes":{"(Restaurant)Golden Dragon Chambers":"50 m","(Cafe/bar)Cafe' Coffee Day":"100m"}},
+   {"Natural beauty":{"Banjara Lake":"600m","Hmda Urban Forest":"5km","(Waterfall)Kokapeta Lake":"13km"}}
+  ]
     },{
       "id":14,
       "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
@@ -856,8 +893,9 @@
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/31/4e/caption.jpg?w=700&h=-1&s=1"],
       "facilities":[
         {"launguages spoken":["English","Telugu","Hindi"] },
-        {"Access":["CCTV in common areas","CCTV outside property", "Fire extinguisher", "Front desk [24-hour]", "Non-smoking rooms", "Safety/security feature", "Smoke alarms"]},
-        {"Services and conveniences":[" Air conditioning in public area","Daily housekeeping"," Elevator"," Invoice provided"," Laundry service"," Luggage storage"," Smoke-free property"]},
+        {"Outdoors":["Picnic area"," BBQ facilities"," Additional charge"," Garden"]},
+        {"Safety & security":["Fire extinguishers"," CCTV outside property"," CCTV in common areas"," Smoke alarms"," Security alarm"," Key card access"]},
+        {"Wellness":["Kids' pool","Fitness/spa locker rooms","Personal trainer","Yoga classes","Fitness","Full body massage","Hand massage","Head massage","Foot massage"]},
         {"Internet access":["Free Wi-Fi in all rooms!","Internet","Internet services","Wi-Fi in public areas"]}
       ],
       "rooms":[
@@ -890,7 +928,15 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Jalagam Vengalrao Park":"550 m","Chacha Nehru Park":"1.5 km","M C H Park":"1.6 km","Khairatabad Park":"1.7 km","Lumbini Park":"1.7 km"}},
+        {"Public Transport":{"Irrun Manzil Metro Station":"850m","(Metro)Kairatabad":"1.2km","(Train)Kairatabad":"1.3km"}},
+      {"Top attractions":{"AP State Archaeology Museum":"2.8 km","Salar Jung Museum":"6 km","Charminar":"7 km","Golkonda Fort":"7 km",
+      "Nehru Zoological Park":"8 km"}},
+      {"Airport":{"Rajiv Gandhi International Airport":"19km"}},
+     {"Restaurants & cafes":{"(Restaurant)Golden Dragon Chambers":"50 m","(Cafe/bar)Cafe' Coffee Day":"100m"}},
+     {"Natural beauty":{"Banjara Lake":"600m","Hmda Urban Forest":"5km","(Waterfall)Kokapeta Lake":"13km"}}
+    ]
     },{
       "id":15,
       "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
