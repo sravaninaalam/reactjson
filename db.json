@@ -140,10 +140,10 @@
       "id": 8,
       "hotelName": "Neelam's The Grand",
       "city": "Goa",
-      "description": "Affordable luxury with pool and great dining",
+      "description": "The Grand is 800 metres from Calangute Beach and 9 km from Mapusa Market. It features a spa with Ayurvedic treatments, 3 dining options and free Wi-Fi in business centre",
       "amenities": "Swimming Pool, Spa, Restaurant,24-hour Room Service, Bar",
       "phoneNo":200193850 ,
-      "address": "1.2 km from Calangute Beach",
+      "address": "1 Post Office Road, Naika Vaddo, 403516 Calangute, India",
       "imageUrl": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20070110213136251-82d4e3cc45e211eca3370a58a9feac02.jpg?&output-quality=75&downsize=520:350&crop=520:350;51,0&output-format=jpg",
       "reviews": [
         "very awesome neat and clean room nice service, good for family stay and the couple also, good food dining area and pool",
@@ -158,10 +158,11 @@
       "description": "This 5 Star Resort in Goa is located in Cavelossim",
       "amenities": "Swimming Pool, Private beach, Spa, Jacuzzi,Kids play area",
       "phoneNo":201193850 ,
-      "address": "1.2 km from Calangute Beach",
+      "address": " Cavelossim Beach, 403717 Cavelossim, India ",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-e4Ucjq2J3g5Fmj1oCi-AHbRN21qnGyRQhagV_GBlA&s",
       "reviews": [
        "radisson hotels are simply best",
+       "Really good and relaxed atmosphere makes u truly enjoy your holiday",
         "There is no proper designated smoking area for guests",
         "Just wow food was good little far from Central Goa Pool "
       ]
@@ -628,7 +629,14 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Harjis Garden":"800m","Snow Park":"2.4km","Park Inn Anchorage":"5km","Butterfly Lawns":"5km"}},
+      {"Public Transport":{"(Train)Thivim railway stationn":"15kkm","(Train)Vasco Da Gama Railway Station":"17km"}},
+    {"Top attractions":{"Bridge Panji":"9km","Goa State Museum":"9 km","SSalim Ali Bird Sanctuary":"11 km","Viceroy’s Arch":"16 km"}},
+    {"Airport":{"Dabolim Airport":"19km","Manohar Parrikar International Airport":"22km"}},
+   {"Restaurants & cafes":{"(Restaurant)Pan Global World Cuisine Restaurant":"7m","(Cafe/bar)Fat Fish Restaurant & Bar":"7m"}},
+   {"Beaches in the neighbourhood":{"Calangute Beach":"900m","Baga Beach":"1.4km","Candolim Beach":"1.6km","Anjuna Beach":"3.5km"}}
+  ]
     },
     {
       "id":9,
@@ -673,7 +681,14 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"FR Druston & Wellington Ground":"1.2km","Church Football Ground":"5km","Chieftains Memorial Park":"5km","Cabo De Rama Fortt":"10 km",
+      "Samuel Ground":"10km","Margao Park":"10km","Lohiya Maidan":"10km"}},
+      {"Public Transport":{"(Train)Balli":"8km","(Train)Margao Railway Station":"10km"}},
+    {"Airport":{"Dabolim Airport":"24km","Manohar Parrikar International Airport":"60km"}},
+   {"Restaurants & cafes":{"(Restaurant)Upper Deck":"50m","(Restaurant)Casa Lisboa":"50m"}},
+   {"Beaches in the neighbourhood":{"Cavelossim Beach":"600m","Mobor Beach":"1km","Varca Beach":"2.9km","North Canaguinim Beach":"5km"}}
+  ]
     }, {
       "id":10,
       "imgUrl":["https://cdn-images-1.medium.com/v2/resize:fit:725/1*ZcpIjbV0m4o8bIrxVK06Tw.jpeg","https://cf.bstatic.com/xdata/images/hotel/max1024x768/513923904.jpg?k=fdb1af3110969f11d80b2e75ffb4f65eb7d8db00fc2677f3a7131cdbd9c6122b&o=&hp=1",
