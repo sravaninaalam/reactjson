@@ -81,15 +81,16 @@
     },
     {
       "id": 4,
-      "hotelName": "Galaxy Paradise",
-      "city": "Mumbai",
+      "hotelName": "FabHotel Don Hill Beach Resort",
+      "city": "Goa",
       "description": "An affordable family stay spot at the 'City' heart",
       "amenities": "24 hr Homely Food, Swimming Pool, Security",
       "phoneNo": 9393939393,
-      "address": "190/1B, Mumbai, Maharastra",
+      "address": "1, NEXT TO KING FISHER VILA TAJ FORT AGUADA ROAD, CANDOLIM, North Goa, 403515 Goa, India ",
       "imageUrl": "https://www.peninsula.com/-/media/homepage---andy/the-peninsula-bangkok_the-pool-11_1920.jpg",
       "reviews": [
-        "You can get a lot of peace. The view is very beautiful. And the food is amazing"
+        "Good value for the money. AC worked well (ear plugs is recommended if you like me are not used with AC)",
+  "It's absolute good time we are spending at Splendor hall. Mr.Ajit F&B manager is very helpful and kind with service. He is so accomodative with supporting lawn area for our team building activities with free charges.Excellent"
       ]
     },
     {
@@ -302,7 +303,15 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹13,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Visvesvaraya Industrial and Technological Museum":"900m","Bangalore Aquarium":"1.5km",
+      "Mahatma Gandhi Park-Gate 1":"1km","Mahatma Gandhi Park-Main Gate":"11.2km","Rajendra Sinhji Institute-Main Entrance":"1.2km","Cubbon Park":"1.2km"}},
+      {"Top attractions":{"Lal Bagh Botanical Garden":"2.6km","National Gallery of Modern Art":"2.8km","Tipu Sultan's Summer Palace":"3.2km",
+      "Bangalore Palace":"3.6km","Palace Grounds":"4.2km","Lumbini Gardens":"8km"}},
+      {"Public Transport":{"(Metro)Mahatma Gandhi Road":"1km","(Metro)Cubbon Park":"1.5km","Shivajinagar Bus Station":"1.8km","Cantonment Railway Station":"2.9km"}},
+      {"Airport":{"Kempegowda International Airport":"26km"}},
+     {"Restaurants & cafes":{"Bangalore Brew Works":"50M","(Restaurant)Riwaz":"50m","(Restaurant)The Market":"50m"}}
+     ,{"Natural beauty":{"Ulsoor Lake":"2.6 km","Makkalokoota Park":"3.4km","Forest":"5km"}}]
     },
     {
       "id":2,
@@ -346,7 +355,15 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹13,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Visvesvaraya Industrial and Technological Museum":"950m","Bangalore Aquarium":"1km",
+      "Mahatma Gandhi Park-Gate 1":"1km","Mahatma Gandhi Park-Main Gate":"1km","Rajendra Sinhji Institute-Main Entrance":"1.2km","Cubbon Park":"1.2km"}},
+      {"Top attractions":{"Lal Bagh Botanical Garden":"2.6km","National Gallery of Modern Art":"2.8km","Tipu Sultan's Summer Palace":"3.2km",
+      "Bangalore Palace":"3.6km","Palace Grounds":"4.2km","Lumbini Gardens":"8km"}},
+      {"Public Transport":{"(Metro)Mahatma Gandhi Road":"1km","(Metro)Cubbon Park":"1.5km","Shivajinagar Bus Station":"1.8km","Cantonment Railway Station":"2.9km"}},
+      {"Airport":{"Kempegowda International Airport":"26km"}},
+     {"Restaurants & cafes":{"Bangalore Brew Works":"50M","(Restaurant)Riwaz":"50m","(Restaurant)The Market":"50m"}}
+     ,{"Natural beauty":{"Ulsoor Lake":"2.6 km","Makkalokoota Park":"3.4km","Forest":"5km"}}]
     },
     {
       "id":3,
@@ -391,7 +408,11 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹13,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"Public Transport":{"APSRTC Central Bus Station":"600 m","Tirupati East Railway Station":"1.8km"}},
+      {"Airport":{"Tirupati Airport":"9km"}},
+     {"Restaurants & cafes":{"Manasa Veg & Non Veg Restaurant":"50M","Navarattan Veg Restaurant":"100m"}}
+     ,{"Natural beauty":{"Papavinasam Theertham":"5 km"}}]
     },
     {
       "id":4,
@@ -417,7 +438,6 @@
             {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 7,064 per night"}, 
             {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹10,849 per night"}
           ]
-
          },
          {
           "Type":" Deluxe  Non Smoking Room",
@@ -438,7 +458,14 @@
            {"option":"Room With Free Cancellation | Breakfast only","cost":"₹ 9,849 per night"}, 
            {"option":"Room With Free Cancellation | Breakfast + Lunch + Dinner","cost":"₹12,349 per night"}]
          }
-      ]
+      ],
+      "Nearby":[{"What's nearby":{"Harjis Garden":"800m","Snow Park":"2.4km","Park Inn Anchorage":"5km","Butterfly Lawns":"5km"}},
+      {"Public Transport":{"(Train)Vasco Da Gama Railway Station":"14km","(Train)Thivim railway station":"16km"}},
+    {"Top attractions":{"Bridge Panji":"8km","Goa State Museum":"10km","SSalim Ali Bird Sanctuary":"11 km","Viceroy’s Arch":"16 km"}},
+    {"Airport":{"Dabolim Airport":"16km","Manohar Parrikar International Airport":"24km"}},
+   {"Restaurants & cafes":{"(Restaurant)Pan Global World Cuisine Restaurant":"7m","(Cafe/bar)Fat Fish Restaurant & Bar":"7m"}},
+   {"Beaches in the neighbourhood":{"Calangute Beach":"900m","Baga Beach":"1.4km","Candolim Beach":"1.6km","Anjuna Beach":"3.5km"}}
+  ]
     },
     {
       "id":5,
